@@ -1,6 +1,6 @@
 # LLM-Project
 
-# 🗞️ News Headline Classification using Transformer-based LLMs
+# 🗞️ News Headline Classification using Traditional & Transformer-based LLMs
 
 ## 🚀 Overview
 
